@@ -30,9 +30,9 @@ It has only 8 commands:
 
 A brainfuck program is a sequence of any of these commands. As an example (taken from wikipedia), this program prints "Hello World!", if you use in in a nice interpreter (like the one i made):
 
-++++++++++[>+++++++>++++++++++>+++>+<<<<-]>++.>+.+++++++..+++.>++.<<+++++++++++++++.>.+++.------.--------.>+.>.
+"++++++++++[>+++++++>++++++++++>+++>+<<<<-]>++.>+.+++++++..+++.>++.<<+++++++++++++++.>.+++.------.--------.>+.>."
 
-
+(this test code is hardcoded in the interpreter as an example)
 
 Ah hell, go read the wikipedia article to know more. Its really fun. really:
 
