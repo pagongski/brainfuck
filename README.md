@@ -34,6 +34,6 @@ A brainfuck program is a sequence of any of these commands. As an example (taken
 
 (this test code is hardcoded in the interpreter as an example)
 
-Ah hell, go read the wikipedia article to know more. Its really fun. really:
+Ah hell, go read the wikipedia article to know more. Its really fun. Really:
 
 http://en.wikipedia.org/wiki/Brainfuck
